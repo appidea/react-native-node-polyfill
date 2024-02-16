@@ -1,0 +1,15 @@
+{
+  "name": "@appidea/react-native-node-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill of Node.js internal modules for React Native",
+  "main": "src/metro/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [],
+  "author": "Appidea.pl Mateusz Falkowski and contributors",
+  "license": "MIT"
+}
